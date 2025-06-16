@@ -62,10 +62,10 @@ export default function RootLayout({
 		<html lang='en' suppressHydrationWarning>
 			<head>
 				{/* Google Search Console Verification */}
-				<meta name="google-site-verification" content="YOUR-VERIFICATION-CODE" />
+				<meta name="google-site-verification" content="FIw-JvXgtvHWkF9aKSf48u4hLusIjx2baDwcSGoBCKM" />
 
 				{/* Google AdSense */}
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossOrigin="anonymous"></script>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3244477725326875" crossOrigin="anonymous"></script>
 
 				{/* Google Analytics */}
 				<GoogleAnalytics />
