@@ -8,12 +8,12 @@ import { Footer } from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "ResizeIt - Professional Image Resizing Tool | Free Online Image Resizer",
+	title: "How 2 Guides - Learn How, Achieve More",
 	description:
-		"Resize images online for free. Professional image resizing tool with dimension control, file size optimization, and batch processing. Support for JPG, PNG, WebP formats.",
+		"H2G is a leading online platform providing step-by-step guides and tutorials on various topics. Our goal is to make complex information accessible.",
 	keywords:
-		"image resize, photo resize, image compression, online image editor, free image resizer, photo editor",
-	authors: [{ name: "ResizeIt Team" }],
+		"how to guide, how to, career guide, lifestyle",
+	authors: [{ name: "H2G Team" }],
 	creator: "ResizeIt",
 	publisher: "ResizeIt",
 	robots: "index, follow",
