@@ -20,11 +20,11 @@ export const metadata: Metadata = {
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://example.com",
-		title: "ResizeIt - Professional Image Resizing Tool",
+		url: "https://how2guidess.com",
+		title: "How 2 Guides - Learn How, Achieve More",
 		description:
-			"Resize images online for free with our professional image resizing tool.",
-		siteName: "ResizeIt",
+			"H2G is a leading online platform providing step-by-step guides and tutorials on various topics.",
+		siteName: "How 2 Guides",
 	},
 	twitter: {
 		card: "summary_large_image",
